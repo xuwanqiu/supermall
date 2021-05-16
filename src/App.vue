@@ -13,6 +13,7 @@ export default {
   components: {
     HelloWorld,
     xu: "ssss",
+    wan: "aaaa"
   }
 }
 </script>
